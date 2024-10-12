@@ -15,6 +15,10 @@
 
 # Screenshots
 
+![lockscreen](https://github.com/user-attachments/assets/a930d897-a93d-4631-bd62-4a56b2194895)
+![desktop](https://github.com/user-attachments/assets/f9ca0758-fc43-44b8-8c04-bb7f0e103697)
+![info](https://github.com/user-attachments/assets/bbca4895-ef3f-46dc-989e-4758b3203c14)
+
 # Status
   
 <summary><strong>What's not working</strong></summary>
