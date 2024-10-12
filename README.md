@@ -1,4 +1,4 @@
-# macOS Sonoma on Lenovo Thinkpad L540 
+# macOS Ventura on Lenovo Thinkpad L540 
 
 
 
@@ -15,14 +15,7 @@
 
 # Screenshots
 
-![lockscreen](https://github.com/user-attachments/assets/603027ec-6156-47be-9bae-6ca5bfd6025c)
-![desktop](https://github.com/user-attachments/assets/00a9c2d5-7e94-4a61-a844-89ff0c2243e5)
-![info](https://github.com/user-attachments/assets/a1c7c42e-d3d1-4ff8-8c39-1d2ef24905f2)
-
-
 # Status
-
-- Bugs and long time loading desktop
   
 <summary><strong>What's not working</strong></summary>
 </br>
