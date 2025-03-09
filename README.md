@@ -11,7 +11,6 @@
 | GPU       | Intel HD Graphics 4600               |
 | SSD       | Goodram SSD 240GB               |
 | Memory    | 12GB DDR3 1333Mhz                     |
-| OS    | MacOS Ventura & Windows 10 x64                    |
 | WiFi & BT | Intel Wireless-N 7260                |
 
 # Screenshots
